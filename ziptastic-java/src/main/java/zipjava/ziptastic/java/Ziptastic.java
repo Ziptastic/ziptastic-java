@@ -18,7 +18,7 @@ import org.apache.http.util.EntityUtils;
  */
 public class Ziptastic {
     
-    private final static String apikey = "88ad38789b858209141ac5699250d7370d5f1861";
+    private final static String apikey = "someApiKey";
     private final static String url = "https://zip.getziptastic.com/v3/US/42701/";
     
     public static String zipCall() throws IOException{
